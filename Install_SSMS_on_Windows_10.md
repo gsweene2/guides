@@ -1,4 +1,4 @@
-# Install SSMS on Window 10
+# Install SSMS 18.4 on Window 10
 
 1. Go to the Microsoft [Download SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) page
 
@@ -15,3 +15,8 @@
 
   * I got an error `Fatal error during installation` - `A previous installation required a reboot of the machine for changes to take effect. To proceed, srestart your computer and then run Setup again`
   * So I will do this
+  
+6. Did the restart, went to the `Downloads` directory, ran the `SSMS-Setup-ENU.exe` again, and got a `Setup Completed` message. The window can now be closed.
+
+7. Now head to the Windows Search bar (`Windows` button on keyboard) and type `SSMS`. You should see the `Microsoft SQL Server Managment Studio` application available.
+
